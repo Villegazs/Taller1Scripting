@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\bin\Debug\net8.0\Taller 1 -punto1.17.exe
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\bin\Debug\net8.0\Taller 1 -punto1.17.deps.json
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\bin\Debug\net8.0\Taller 1 -punto1.17.runtimeconfig.json
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\bin\Debug\net8.0\Taller 1 -punto1.17.dll
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\bin\Debug\net8.0\Taller 1 -punto1.17.pdb
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.AssemblyInfo.cs
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.dll
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\refint\Taller 1 -punto1.17.dll
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.pdb
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\Taller 1 -punto1.17.genruntimeconfig.cache
+C:\Users\PC\source\repos\Taller 1 -punto1.17\Taller 1 -punto1.17\obj\Debug\net8.0\ref\Taller 1 -punto1.17.dll
